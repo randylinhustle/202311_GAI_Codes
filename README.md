@@ -1,4 +1,4 @@
-This repository contains replication codes for the paper "Why Are Users Drawn to ChatGPT? Unraveling the Motivations, Concerns, and Acceptance of Generative Artificial Intelligence".
+This repository contains replication codes for the paper "Unraveling Gratifications, Concerns, and Acceptance of Generative Artificial Intelligence".
 
 - "data-clean.ipynb": A Python script to clean the dataset for the study.
 - "data-analysis.R": A R script designed to carry out correlated topic modeling and regression analysis on the cleaned Reddit dataset.
